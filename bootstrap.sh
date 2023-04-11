@@ -1,4 +1,4 @@
 #!/bin/bash
 
 export FLASK_APP=./app/index.py
-flask --debug run -h 0.0.0.0 -p 5002
+flask --debug run -h 0.0.0.0
